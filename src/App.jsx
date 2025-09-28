@@ -1,7 +1,7 @@
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import HomePage from './pages/HomePage';
 import StartPressureTest from './pages/StartPressure';
-import EndPressureTest from './pages/EndPressureTest';
+import EndPressureTest from './pages/EndpressureTest';
 import EndTestDetails from './pages/EndTestDetails';
 import './App.css';
 
